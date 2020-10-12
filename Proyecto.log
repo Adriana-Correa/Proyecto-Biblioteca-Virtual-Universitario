@@ -1,0 +1,291 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.25)  11 OCT 2020 21:18
+entering extended mode
+**./Proyecto.tex
+(Proyecto.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-05-15>
+("C:\Users\Yulieth-\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cl
+s"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Users\Yulieth-\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo
+"
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Users\Yulieth-\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.s
+ty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+("C:\Users\Yulieth-\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\multicol.
+sty"
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count175
+\mult@box=\box45
+\multicol@leftmargin=\dimen135
+\c@unbalance=\count176
+\c@collectmore=\count177
+\doublecol@number=\count178
+\multicoltolerance=\count179
+\multicolpretolerance=\count180
+\full@width=\dimen136
+\page@free=\dimen137
+\premulticols=\dimen138
+\postmulticols=\dimen139
+\multicolsep=\skip49
+\multicolbaselineskip=\skip50
+\partial@page=\box46
+\last@line=\box47
+\maxbalancingoverflow=\dimen140
+\mult@rightbox=\box48
+\mult@grightbox=\box49
+\mult@gfirstbox=\box50
+\mult@firstbox=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\c@minrows=\count181
+\c@columnbadness=\count182
+\c@finalcolumnbadness=\count183
+\last@try=\dimen141
+\multicolovershoot=\dimen142
+\multicolundershoot=\dimen143
+\mult@nat@firstbox=\box89
+\colbreak@box=\box90
+\mc@col@check@num=\count184
+)
+("C:\Users\Yulieth-\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphi
+cx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Yulieth-\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval
+.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+("C:\Users\Yulieth-\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphi
+cs.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Yulieth-\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.s
+ty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Yulieth-\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\gr
+aphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\Yulieth-\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pd
+ftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen144
+\Gin@req@width=\dimen145
+)
+("C:\Users\Yulieth-\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3bac
+kend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-05-05 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count185
+\l__pdf_internal_box=\box91
+) (Proyecto.aux)
+\openout1 = `Proyecto.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+("C:\Users\Yulieth-\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\sup
+p-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count186
+\scratchdimen=\dimen146
+\scratchbox=\box92
+\nofMPsegments=\count187
+\nofMParguments=\count188
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count189
+\MPscratchDim=\dimen147
+\MPnumerator=\count190
+\makeMPintoPDFobject=\count191
+\everyMPtoPDFconversion=\toks19
+)
+("C:\Users\Yulieth-\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\ep
+stopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 9.
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+\OT1/cmr/m/n/10 LIOTECA VIR-TUAL UNI-VER-SI-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
+
+ []
+
+[1
+
+{C:/Users/Yulieth-/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 29--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--40
+
+ []
+
+
+Underfull \hbox (badness 6927) in paragraph at lines 43--55
+\OT1/cmr/m/n/10 Nuevo y se-lec-cionar la cat-e-gora
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--55
+
+ []
+
+[2]
+<photo.jpg, id=12, 473.51906pt x 422.32782pt>
+File: photo.jpg Graphic file (type jpg)
+<use photo.jpg>
+Package pdftex.def Info: photo.jpg  used on input line 56.
+(pdftex.def)             Requested size: 142.26378pt x 126.87976pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--63
+
+ []
+
+<ima2.jpg, id=13, 277.035pt x 198.7425pt>
+File: ima2.jpg Graphic file (type jpg)
+<use ima2.jpg>
+Package pdftex.def Info: ima2.jpg  used on input line 64.
+(pdftex.def)             Requested size: 142.26378pt x 102.05785pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+
+ []
+
+<ima3.jpg, id=14, 408.0846pt x 138.7584pt>
+File: ima3.jpg Graphic file (type jpg)
+<use ima3.jpg>
+Package pdftex.def Info: ima3.jpg  used on input line 68.
+(pdftex.def)             Requested size: 142.26378pt x 48.37349pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+<ima4.jpg, id=15, 443.256pt x 96.8418pt>
+File: ima4.jpg Graphic file (type jpg)
+<use ima4.jpg>
+Package pdftex.def Info: ima4.jpg  used on input line 72.
+(pdftex.def)             Requested size: 142.26378pt x 31.0816pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--79
+
+ []
+
+[3 <./photo.jpg> <./ima2.jpg> <./ima3.jpg> <./ima4.jpg>] [4] (Proyecto.aux) ) 
+Here is how much of TeX's memory you used:
+ 1322 strings out of 480799
+ 20135 string characters out of 2894383
+ 262650 words of memory out of 3000000
+ 17356 multiletter control sequences out of 15000+200000
+ 535681 words of font info for 35 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,7n,25p,868b,268s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C
+:/Users/Yulieth-/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmbx10.pfb><C:/Users/Yulieth-/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmr10.pfb><C:/Users/Yulieth-/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Yulieth-/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on Proyecto.pdf (4 pages, 186803 bytes).
+PDF statistics:
+ 35 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+
